@@ -1,0 +1,18 @@
+element.style 
+
+
+body { 
+    display: block;
+    margin: 20px
+}
+
+body{
+    color: rgb( 34, 107, 185 ); 
+    background: rgb(37, 37, 37);
+    margin:3px
+}
+
+header {
+    border-bottom: solid 2px black;
+    padding: 20px;
+}
